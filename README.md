@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=140&section=header&text=Rafael%20Pereira&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=140&section=header&text=Rafael%20Souza&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
