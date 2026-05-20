@@ -12,7 +12,7 @@ Profissional focado em tecnologia e empreendedorismo, em transição estratégic
 
 - 📊 **Foco Atual:** Especialização em análise estatística, manipulação de bancos de dados estruturados e Business Intelligence (BI).
 - 🐍 **Prática Constante:** Desenvolvendo soluções com Python e SQL para automação e extração de insights.
-- 🎯 **Objetivo:** Construir uma base sólida em engenharia e análise de dados, acompanhando a evolução do mercado.
+- 🎯 **Objetivo:** Construir uma base sólida em engenharia and análise de dados, acompanhando a evolução do mercado.
 
 ---
 
@@ -24,6 +24,14 @@ Profissional focado em tecnologia e empreendedorismo, em transição estratégic
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📈 Minhas Contribuições
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelsouzarev&bg_color=00000000&color=1E90FF&line=0D1117&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
