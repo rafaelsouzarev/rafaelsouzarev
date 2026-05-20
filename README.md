@@ -10,9 +10,21 @@
 
 Profissional focado em tecnologia e empreendedorismo, em transição estratégica para a área de **Ciência de Dados**. Minha bagagem prática com lógica e resolução de problemas me dá uma visão diferenciada para entender estruturas de dados e otimização de processos. Meu foco é dominar as principais ferramentas do mercado para transformar dados brutos em inteligência de negócios.
 
-- 📊 **Foco Atual:** Especialização em análise estatística, manipulação de bancos de dados estruturados e Business Intelligence (BI).
+- 📊 **Foco Atual:** Análise estatística, manipulação de bancos de dados estruturados e Business Intelligence (BI).
 - 🐍 **Prática Constante:** Desenvolvendo soluções com Python e SQL para automação e extração de insights.
-- 🎯 **Objetivo:** Construir uma base sólida em engenharia and análise de dados, acompanhando a evolução do mercado.
+- 🎯 **Objetivo:** Construir uma base sólida em engenharia e análise de dados, acompanhando a evolução do mercado.
+
+---
+
+## ⚡ Detalhes do Perfil
+
+- 🌱 **Atualmente estudando:**
+  - Python
+  - SQL
+  - Power BI
+  - Git e GitHub
+- 🤔 **Procuro ajuda com:** Integração e estruturação de grandes volumes de dados reais de negócios para projetos de portfólio.
+- 📫 **Como me encontrar:** Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/rafael-souza-b62324160/) ou me enviar um e-mail direto em raafaelsoouzadrop23@gmail.com.
 
 ---
 
