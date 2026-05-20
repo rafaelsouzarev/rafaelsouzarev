@@ -21,9 +21,13 @@ Profissional focado em tecnologia e empreendedorismo, em transição estratégic
 - 🌱 **Atualmente estudando:**
   - Python
   - SQL
+  - Estatística
+  - Análise de Dados
+  - Visualização de Dados
   - Power BI
+  - Machine Learning
   - Git e GitHub
-- 🤔 **Procuro ajuda com:** Integração e estruturação de grandes volumes de dados reais de negócios para projetos de portfólio.
+- **Objetivos:** Desenvolver projetos práticos com dados reais de mercado e construir um portfólio sólido em Ciência de Dados.
 - 📫 **Como me encontrar:** Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/rafael-souza-b62324160/) ou me enviar um e-mail direto em raafaelsoouzadrop23@gmail.com.
 
 ---
