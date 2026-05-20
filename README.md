@@ -1,29 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=140&section=header&text=Rafael%20Pereira&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2c3e50&height=150&section=header&text=Rafael%20Souza&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Data%20Science%20Expert%20in%20Training&descAlignY=65&descAlign=50"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=32&center=true&vCenter=true&width=1000&lines=Cientista+de+Dados+em+Forma%C3%A7%C3%A3o;Empreendedor+de+Tecnologia;Focado+em+Intelig%C3%AAncia+de+Neg%C3%B3cios+e+Automa%C3%A7%C3%A3o;Transformando+Dados+brutos+em+Estrat%C3%A9gia!+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=30&center=true&vCenter=true&width=1000&lines=Cientista+de+Dados+em+Forma%C3%A7%C3%A3o;Empreendedor+de+Tecnologia;Intelig%C3%AAncia+de+Neg%C3%B3cios+%26+Estrat%C3%A9gia;Decifrando+o+futuro+atrav%C3%A9s+dos+dados!+%F0%9F%94%8D"/>
   </a>
 </p>
 
 ## 👤 Sobre Mim
 
-Profissional focado em tecnologia e empreendedorismo, em transição estratégica para a área de **Ciência de Dados**. Minha bagagem prática com lógica e resolução de problemas me dá uma visão diferenciada para entender estruturas de dados e otimização de processos. Meu foco é dominar as principais ferramentas do mercado para transformar dados brutos em inteligência de negócios.
+Profissional focado em tecnologia e empreendedorismo, em transição estratégica para a área de **Ciência de Dados**. Com uma base sólida em resolução de problemas e lógica, meu foco atual é dominar a arquitetura de dados e ferramentas analíticas para gerar impacto real nos negócios.
 
-- 📊 **Foco Atual:** Especialização em análise estatística, manipulação de bancos de dados estruturados e Business Intelligence (BI).
-- 🐍 **Prática Constante:** Desenvolvendo soluções com Python e SQL para automação e extração de insights.
-- 🎯 **Objetivo:** Construir uma base sólida em engenharia e análise de dados, acompanhando a evolução do mercado.
+- 📊 **Foco Atual:** Análise estatística, Bancos de Dados e Business Intelligence (BI).
+- 🐍 **Prática Constante:** Automação e extração de insights utilizando Python e SQL.
+- 🎯 **Objetivo:** Transformar grandes volumes de dados brutos em decisões estratégicas e automação inteligente.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🐍 Ciência de Dados & Análise
+### 🐍 Ecossistema de Dados
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-37474F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-37474F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-37474F?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Git-37474F?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -31,8 +31,8 @@ Profissional focado em tecnologia e empreendedorismo, em transição estratégic
 ## 📊 Estatísticas Dinâmicas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsouzarev&show_icons=true&theme=transparent&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzarev&layout=compact&theme=transparent&title_color=1E90FF&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsouzarev&show_icons=true&theme=tokyonight&title_color=B0C4DE&icon_color=B0C4DE&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsouzarev&layout=compact&theme=tokyonight&title_color=B0C4DE&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -41,7 +41,4 @@ Profissional focado em tecnologia e empreendedorismo, em transição estratégic
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rafael-souza-b62324160/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raafaelsoouzadrop23@gmail.com" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/LinkedIn-2c3e50?style=for-the-
